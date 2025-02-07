@@ -1358,6 +1358,11 @@ a {
 }
 .cid-uBZtcKUv6C {
   display: flex;
+  background-image: url("../../../assets/images/2-1730x980.jpg");
+}
+.cid-uBZtcKUv6C .mbr-overlay {
+  background-color: #f92c50;
+  opacity: 0.5;
 }
 .cid-uBZtcKUv6C .mbr-fallback-image.disabled {
   display: none;
@@ -1370,7 +1375,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-uBZtcKUv6C .content-wrap {
   padding: 5rem 1rem;
